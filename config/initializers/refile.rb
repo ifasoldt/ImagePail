@@ -5,4 +5,4 @@ Refile.configure do |config|
 end
 
 
-Refile.cdn_host = 'https://5f36d607.ngrok.io'
+Refile.cdn_host = 'https://shrouded-hamlet-68398.herokuapp.com/'
